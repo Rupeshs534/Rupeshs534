@@ -2,7 +2,9 @@
 
 
 💼 Open to collaborations on Data Analytics initiatives!
+
 📞 Reach out to me at 7568552674
+
 📧 Email me at rupeshs534@gmail.com
 <!---
 Rupeshs534/Rupeshs534 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
