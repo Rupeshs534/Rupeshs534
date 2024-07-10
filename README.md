@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rupesh Sharma
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Sql,PowerBI,Tableau
+- 🌱 Skill Sets:  MySql,PowerBI,Tableau,Basic Python with ML
 - 💞️ I’m looking to collaborate on Data Analytical Tool
-- 📫 How to reach me ... Reach me by connecting whatsapp 7568552674
+- 📫 Contact Me @7568552674 Mail: rupeshs534@gmail.com
 
 <!---
 Rupeshs534/Rupeshs534 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
